@@ -1,0 +1,9 @@
+argcomplete
+chardet
+python-pptx>=0.5.1
+python-docx
+pdfminer==20140328
+beautifulsoup4
+xlrd
+EbookLib
+SpeechRecognition>=3.1.0

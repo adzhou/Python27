@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+pyocr.egg-info/PKG-INFO
+pyocr.egg-info/SOURCES.txt
+pyocr.egg-info/dependency_links.txt
+pyocr.egg-info/requires.txt
+pyocr.egg-info/top_level.txt
+src/pyocr/__init__.py
+src/pyocr/builders.py
+src/pyocr/cuneiform.py
+src/pyocr/pyocr.py
+src/pyocr/tesseract.py
+src/pyocr/util.py
+src/pyocr/libtesseract/__init__.py
+src/pyocr/libtesseract/tesseract_raw.py
